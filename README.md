@@ -77,8 +77,6 @@ A simple WhatsApp User bot.
     - [Read More](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables)
 
     - Edit the `config.env` using nano if needed. To save, press `Ctrl + O`, then press `Enter`, and to exit, press `Ctrl + X`.
-
-    - Start and stop the bot:
         - To start the bot: `pm2 start . --name botName --attach --time`
         - To stop the bot: `pm2 stop botName`
 
